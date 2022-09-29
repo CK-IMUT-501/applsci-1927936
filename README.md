@@ -5,3 +5,4 @@
 
 ## *dep_process* contains scripts for processing dependent syntactic information.
 
+## As the dataset is private, only a few example sentences can be given for testing purposes.
